@@ -6,7 +6,7 @@ Current Models:
     - UNet 3 --> Standard Unet Architecture
     - UNetPlus 1 --> Not Implemented
     - UNetPlusPlus 1 --> Original UNetPlusPlus architecture
-    - UNetPlusPlus 2 --> Enhanced UNetPlusPlus architecture
+    - UNetPlusPlus 2 --> Enhanced UNetPlusPlus architecture (Not Implemented)
 
 Notes: Unit.py is highly correlated with this file
 """
